@@ -1,0 +1,20 @@
+Protetor solar - produto - 6.99 - 19
+Creme - produto - 8.99 - 22
+Desodorante - 9.79 - 07
+Tinta - produto - 8.19 - 11
+Esmalte - produto - 14.79 - 02
+Creatina - produto - 20.79 - 33
+Agua - produto - 16.19 - 22
+Sabonete - produto - 4.99 - 18
+Condicionador - produto - 2.99 - 18
+Shampoo - produto - 25.99 - 34
+Escova de dentes - produto - 118.99 - 39
+Whey protein - produto - 20.90 - 21
+Corte de cabelo - serviço - 70.92 - 21
+Limpeza de pele - serviço - 103.92 - 63
+Unhas - serviço - 65.00 - 34
+Barba - serviço - 259.99 - 39
+Pintura de cabelos - serviço - 129.90 - 39
+Design de sobrancelhas - serviço - 110.90 - 19
+Harmonização facial - serviço - 8.99 - 34
+Massagem - serviço - 10.99 - 28
